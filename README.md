@@ -8,10 +8,10 @@
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
 ***
 ### **Work experience**
-**KPMG Ltd., Co.** - Auditor Assistant (_December 2021 - Present_)
+**KPMG Ltd., Co.** - Auditor Assistant (_December 2021 - Present_) |
 **Crowe Vietnam Ltd., Co.** - Auditor Assistant (_November 2019 - September 2021_)
 ***
 ### **Education & Certificates**
-**Foreign Trade University** - Accounting and Auditing (_September 2016 - August 2020_)
-Hackerrank SQL Advanced Certificate
+**Foreign Trade University** - Accounting and Auditing (_September 2016 - August 2020_) |
+Hackerrank SQL Advanced Certificate |
 DataCamp Certificate - Data Analyst in SQL & Data Analyst in Power BI, Python (on pursuing)
