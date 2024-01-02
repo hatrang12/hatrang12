@@ -14,5 +14,5 @@
 ### **Education & Certificates**
 **Foreign Trade University** 
 - Accounting and Auditing (_September 2016 - August 2020_)
-- Hackerrank SQL Advanced Certificate |
+- Hackerrank SQL Advanced Certificate 
 - DataCamp Certificate - Data Analyst in SQL & Data Analyst in Power BI, Python (on pursuing)
